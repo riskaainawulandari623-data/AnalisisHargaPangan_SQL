@@ -1,4 +1,4 @@
-# AnalisisHargaPangan_SQL
+# Analisis Indeks Pangan_SQL
 Analisis tren harga komoditas menggunakan SQL dan visualisasi data untuk mendukung keputusan bisnis agribisnis 
 
 # 🌾 Analisis Indeks Harga Pangan di Indonesia (SQL Project)
