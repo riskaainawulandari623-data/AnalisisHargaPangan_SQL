@@ -20,4 +20,4 @@ Analisis dilakukan dengan memfilter indikator 'Agriculture orientation index' da
 - Pentingnya memantau "Agriculture Orientation Index" untuk melihat dukungan pemerintah terhadap sektor pertanian.
 
 ---
-*Proyek ini adalah bagian dari perjalanan saya bertransisi menjadi Data Analyst yang fokus pada sektor ketahanan pangan.*
+*Proyek ini adalah bagian dari perjalanan saya bertransisi menjadi Data Analyst.*
