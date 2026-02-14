@@ -1,23 +1,22 @@
-# Analisis Indeks Pangan_SQL
-Analisis tren harga komoditas menggunakan SQL dan visualisasi data untuk mendukung keputusan bisnis agribisnis 
+# Food Index Analysis_SQL
+Commodity price trend analysis using SQL and data visualization to support agribusiness decisions 
 
-# 🌾 Analisis Indeks Harga Pangan di Indonesia (SQL Project)
+# 🌾 Food Price Index Analysis in Indonesia (SQL Project)
 
-## Deskripsi
-Proyek ini menganalisis tren indeks harga pangan dan ekspor pertanian di Indonesia menggunakan data publik dari **UN SDG (United Nations Sustainable Development Goals)** yang diakses melalui Google BigQuery. Sebagai lulusan Agribisnis, saya ingin mengeksplorasi bagaimana data dapat membantu memantau stabilitas pangan nasional.
+## Description
+This project analyzes food price index and agricultural export trends in Indonesia using public data from **UN SDG (United Nations Sustainable Development Goals)** accessed through Google BigQuery. As an Agribusiness graduate, I want to explore how data can help monitor national food stability.
 
-## Skill yang Ditunjukkan
-- **Data Extraction:** Menarik data dari BigQuery menggunakan SQL.
-- **Data Filtering:** Menggunakan `WHERE`, `LIKE`, dan `geoareaname` untuk fokus pada pasar Indonesia.
-- **Domain Knowledge:** Menghubungkan temuan data dengan konteks Agribisnis.
+## Skills Demonstrated
+- **Data Extraction:** Extracting data from BigQuery using SQL.
+- **Data Filtering:** Using `WHERE`, `LIKE`, and `geoareaname` to focus on the Indonesian market.
+- **Domain Knowledge:** Connecting data findings with the Agribusiness context.
 
-## Query Utama
-Analisis dilakukan dengan memfilter indikator 'Agriculture orientation index' dan 'Food Price' untuk melihat fluktuasi harga tahunan. Kode lengkap dapat dilihat pada file `query_indonesia.sql`.
+## Main Query
+The analysis was conducted by filtering the ‘Agriculture orientation index’ and ‘Food Price’ indicators to see annual price fluctuations. The complete code can be seen in the `query_indonesia.sql` file.
 
-## Temuan (Insights)
-*Berdasarkan hasil query:*
-- Dataset menunjukkan tren penurunan pada tahun 2007 hingaa 2010.
-- Pentingnya memantau "Agriculture Orientation Index" untuk melihat dukungan pemerintah terhadap sektor pertanian.
+## Findings (Insights)
+*Based on query results:*
+- The dataset shows a downward trend from 2007 to 2010.
+- The importance of monitoring the “Agriculture Orientation Index” to see government support for the agricultural sector.
 
----
-*Proyek ini adalah bagian dari perjalanan saya bertransisi menjadi Data Analyst.*
+Translated with DeepL.com (free version)
